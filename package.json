@@ -4,6 +4,7 @@
 	"description": "A course project app for FreeCodeCamp back-end and API development course",
 	"keywords": [ "freecodecamp", "node", "backend", "api" ],
 	"license": "MIT",
+	"version": "1.0.0",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
